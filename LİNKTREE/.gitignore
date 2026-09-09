@@ -1,0 +1,13 @@
+node_modules
+.next
+.env
+.env.local
+coverage
+playwright-report
+test-results
+*.db
+*.db-journal
+*.tsbuildinfo
+public/uploads/*
+!public/uploads/.gitkeep
+Görseller/
